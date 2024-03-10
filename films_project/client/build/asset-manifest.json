@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca0c22f5.css",
+    "main.js": "/static/js/main.fd0c6ff5.js",
+    "static/js/787.22edae46.chunk.js": "/static/js/787.22edae46.chunk.js",
+    "static/media/brennan-burling-ay53qag90W8-unsplash.jpg": "/static/media/brennan-burling-ay53qag90W8-unsplash.fdaf6b0b88ba84e26a90.jpg",
+    "static/media/background_image.jpg": "/static/media/background_image.bd60b7350f8c70807582.jpg",
+    "static/media/breadcrumb_bg.jpg": "/static/media/breadcrumb_bg.f7565d3d4ed47122faee.jpg",
+    "static/media/movie_bg.jpg": "/static/media/movie_bg.3450f4a7d44cd2c455f0.jpg",
+    "static/media/logo.png": "/static/media/logo.0d76b8b42297eba6cb18.png",
+    "static/media/services_img.jpg": "/static/media/services_img.b68a02e61ccb1ceed7ab.jpg",
+    "static/media/video-camera.png": "/static/media/video-camera.14741fd13716ac50263d.png",
+    "static/media/tv.png": "/static/media/tv.dafe8feab29b5ac8630e.png",
+    "index.html": "/index.html",
+    "main.ca0c22f5.css.map": "/static/css/main.ca0c22f5.css.map",
+    "main.fd0c6ff5.js.map": "/static/js/main.fd0c6ff5.js.map",
+    "787.22edae46.chunk.js.map": "/static/js/787.22edae46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca0c22f5.css",
+    "static/js/main.fd0c6ff5.js"
+  ]
+}

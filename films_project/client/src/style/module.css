@@ -1,0 +1,12 @@
+div#module{
+    animation: togglModule .7s;
+    z-index: 1;
+}
+@keyframes togglModule {
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}

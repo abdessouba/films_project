@@ -1,0 +1,12 @@
+div#sideBar{
+    animation: togglBar .5s;
+    right: 0px;
+}
+@keyframes togglBar {
+    from{
+        right: -250px;
+    }
+    to{
+        right: 0px;
+    }
+}

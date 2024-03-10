@@ -1,0 +1,6 @@
+div#films{
+    background-image: url("../images/brennan-burling-ay53qag90W8-unsplash.jpg");
+    background-position: center;
+    background-size: contain;
+    min-height: 100vh;
+}
